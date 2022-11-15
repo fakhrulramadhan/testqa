@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fakhrul</name>
+   <tag></tag>
+   <elementGuidId>b4e23174-b41d-4577-8d9d-9051a519a8b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sx2jih0.zcydq8n.zcydq856._136ckug1 > div.sx2jih0.zcydq856.zcydq8ea > div.sx2jih0 > div.sx2jih0.zcydq85a > div.sx2jih0.zcydq84.zcydq8h > span.sx2jih0.zcydq84u._18qlyvc0._18qlyvc1x._18qlyvc1._1d0g9qk4._18qlyvcb > div.sx2jih0.zcydq8ea.zcydq856.zcydq8eu > div.sx2jih0._17fduda0._17fduda3 > div.sx2jih0.zcydq8fe.zcydq856.zcydq8ey.zcydq8ea._17fduda23 > div.sx2jih0.zcydq8r.zcydq8da.zcydq8aa.zcydq84u.zcydq8ei</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/div/div/div/span/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sx2jih0 zcydq8r zcydq8da zcydq8aa zcydq84u zcydq8ei</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fakhrul</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;r993om0 _18qlyvc14 _18qlyvc17&quot;]/div[@class=&quot;sx2jih0&quot;]/div[@class=&quot;sx2jih0 zcydq856 zcydq8em zcydq8ea zcydq8f6&quot;]/div[@class=&quot;sx2jih0 zcydq856 zcydq8f6 zcydq8em zcydq8p y759cs0 _18qlyvc14 _18qlyvc17 zcydq832 zcydq835&quot;]/div[@class=&quot;sx2jih0 zcydq8p zcydq8v _1xiw5030&quot;]/div[@class=&quot;sx2jih0 zcydq896 zcydq886 zcydq856 zcydq8ea zcydq8eu zcydq8p zcydq8n zcydq85b y759cs0 y759cs2 _18qlyvc14 _18qlyvc17 zcydq832 zcydq835&quot;]/div[@class=&quot;sx2jih0 zcydq8ea zcydq84q zcydq857 zcydq8n&quot;]/div[@class=&quot;sx2jih0&quot;]/div[@class=&quot;sx2jih0 zcydq8n zcydq856 _136ckug1&quot;]/div[@class=&quot;sx2jih0 zcydq856 zcydq8ea&quot;]/div[@class=&quot;sx2jih0&quot;]/div[@class=&quot;sx2jih0 zcydq85a&quot;]/div[@class=&quot;sx2jih0 zcydq84 zcydq8h&quot;]/span[@class=&quot;sx2jih0 zcydq84u _18qlyvc0 _18qlyvc1x _18qlyvc1 _1d0g9qk4 _18qlyvcb&quot;]/div[@class=&quot;sx2jih0 zcydq8ea zcydq856 zcydq8eu&quot;]/div[@class=&quot;sx2jih0 _17fduda0 _17fduda3&quot;]/div[@class=&quot;sx2jih0 zcydq8fe zcydq856 zcydq8ey zcydq8ea _17fduda23&quot;]/div[@class=&quot;sx2jih0 zcydq8r zcydq8da zcydq8aa zcydq84u zcydq8ei&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[4]/div/div/div/div[2]/div[2]/div/div/div/div/div/span/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa'])[2]/following::div[11]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::div[11]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat profil'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lamaran kerja'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fakhrul']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/span/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
